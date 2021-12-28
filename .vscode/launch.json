@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch tic_tac_toe",
+            "request": "launch",
+            "mainClass": "tic_tac_toe",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guess_the_number",
+            "request": "launch",
+            "mainClass": "Guess_the_number",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "my_2D_proj_aef15842"
+        }
+    ]
+}
