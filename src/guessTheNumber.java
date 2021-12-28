@@ -1,16 +1,15 @@
 
 import java.util.*;
 
-class Guess_the_number {
+class GuessTheNumber {
     static Scanner sc = new Scanner(System.in);
-    static int num, ran, count = 1;
+    static int num, ran;
 
     public static void main(String[] args) {
-        Guess_the_number obj = new Guess_the_number();
-    
+        GuessTheNumber obj = new GuessTheNumber();
         for (int i = 1; i <= 6; i++) {
             obj.acceptor();
-           Boolean result = obj.checker(i);
+           boolean result = obj.checker(i);
            if(result == true){
             System.exit(0);
            }
@@ -23,7 +22,7 @@ class Guess_the_number {
         }
     }
 
-    public Guess_the_number() {
+    public GuessTheNumber() {
         Random random = new Random();
         System.out.println("Gererate a random number");
         ran = random.nextInt(100);
@@ -38,7 +37,7 @@ class Guess_the_number {
 
     }
 
-    public Boolean checker(int i) {
+    public boolean checker(int i) {
         if (num == ran) {
             System.out.println("Congratulations!! , Your entered number is correct");
             System.out.println("Your Rank is " + i);
@@ -52,6 +51,6 @@ class Guess_the_number {
             System.out.println("Your entered number is lower than the random number, Try again");
             return false;
         }
-        return null;
+        return false;
     }
 }
