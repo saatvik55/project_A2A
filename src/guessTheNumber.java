@@ -1,12 +1,12 @@
 
 import java.util.*;
 
-class GuessTheNumber {
+class guessTheNumber {
     static Scanner sc = new Scanner(System.in);
     static int num, ran;
 
     public static void main(String[] args) {
-        GuessTheNumber obj = new GuessTheNumber();
+        guessTheNumber obj = new guessTheNumber();
         for (int i = 1; i <= 6; i++) {
             obj.acceptor();
            boolean result = obj.checker(i);
@@ -22,7 +22,7 @@ class GuessTheNumber {
         }
     }
 
-    public GuessTheNumber() {
+    public guessTheNumber() {
         Random random = new Random();
         System.out.println("Gererate a random number");
         ran = random.nextInt(100);

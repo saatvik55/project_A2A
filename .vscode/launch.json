@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sweets",
+            "request": "launch",
+            "mainClass": "endevours.sweets",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch stones",
+            "request": "launch",
+            "mainClass": "endevours.stones",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReducoUno",
+            "request": "launch",
+            "mainClass": "endevours.ReducoUno",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch practise",
+            "request": "launch",
+            "mainClass": "practise",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "datastructures.Graph",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch GodOfSequences",
+            "request": "launch",
+            "mainClass": "GodOfSequences",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch guessTheNumber",
+            "request": "launch",
+            "mainClass": "guessTheNumber",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch godofsequences",
+            "request": "launch",
+            "mainClass": "godofsequences",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch poker",
+            "request": "launch",
+            "mainClass": "poker",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
             "name": "Launch tic_tac_toe",
             "request": "launch",
             "mainClass": "tic_tac_toe",
@@ -20,7 +104,7 @@
         },
         {
             "type": "java",
-            "name": "Launch App",
+   pppppppppppppp         "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
             "projectName": "my_2D_proj_aef15842"
