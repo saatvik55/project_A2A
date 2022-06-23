@@ -7,12 +7,10 @@ import java.util.Scanner;
         int count = 0;
         for (int i = 0; i < n; i++) {
             int hours = sc.nextInt();
-            int hours1=0;
             int num = sc.nextInt();
             for (int j = num; j < hours; j++) {
                 if (j == num || j==hours/10 || j==hours%10) {
                     count++;
-                    hours1=+num;
                     hours = hours - num;
                 }
 
@@ -24,5 +22,6 @@ import java.util.Scanner;
             count=0;
 
         }
+        sc.close();
     }
 }

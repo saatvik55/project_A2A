@@ -6,6 +6,489 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mario",
+            "request": "launch",
+            "mainClass": "CodeChef.lunchtime.mario",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch thief",
+            "request": "launch",
+            "mainClass": "CodeChef.starters.thief",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch direction",
+            "request": "launch",
+            "mainClass": "codeforces.direction",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch iars",
+            "request": "launch",
+            "mainClass": "CodeChef.lunchtime.iars",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch str",
+            "request": "launch",
+            "mainClass": "CodeChef.lunchtime.str",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch dice",
+            "request": "launch",
+            "mainClass": "codejam.dice",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "codejam.pattern",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch divi",
+            "request": "launch",
+            "mainClass": "hashcode.divi",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExactMarks",
+            "request": "launch",
+            "mainClass": "CodeChef.LongChallenges.ExactMarks",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch AkashFunction",
+            "request": "launch",
+            "mainClass": "CodeChef.LongChallenges.AkashFunction",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch AkashClass",
+            "request": "launch",
+            "mainClass": "CodeChef.LongChallenges.AkashClass",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordle",
+            "request": "launch",
+            "mainClass": "CodeChef.LongChallenges.wordle",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordle",
+            "request": "launch",
+            "mainClass": "wordle",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrong",
+            "request": "launch",
+            "mainClass": "codeforces.wrong",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch playoff",
+            "request": "launch",
+            "mainClass": "codeforces.playoff",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayAltsum",
+            "request": "launch",
+            "mainClass": "CodeChef.starters.arrayAltsum",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringman",
+            "request": "launch",
+            "mainClass": "CodeChef.starters.stringman",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch bombbase",
+            "request": "launch",
+            "mainClass": "CodeChef.starters.bombbase",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORwise",
+            "request": "launch",
+            "mainClass": "codeforces.practise.XORwise",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch moddiv",
+            "request": "launch",
+            "mainClass": "codeforces.moddiv",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch str",
+            "request": "launch",
+            "mainClass": "codeforces.str",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch div",
+            "request": "launch",
+            "mainClass": "CodeChef.cookoff.div",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch fruits",
+            "request": "launch",
+            "mainClass": "CodeChef.cookoff.fruits",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch game",
+            "request": "launch",
+            "mainClass": "CodeChef.cookoff.game",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch conv",
+            "request": "launch",
+            "mainClass": "codeforces.practise.conv",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch xor",
+            "request": "launch",
+            "mainClass": "CodeChef.xor",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch tu",
+            "request": "launch",
+            "mainClass": "CodeChef.tu",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch days",
+            "request": "launch",
+            "mainClass": "CodeChef.days",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch nnn",
+            "request": "launch",
+            "mainClass": "CodeChef.nnn",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "codeforces.practise.arrays",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch grid",
+            "request": "launch",
+            "mainClass": "CodeChef.grid",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch process",
+            "request": "launch",
+            "mainClass": "CodeChef.process",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch movie",
+            "request": "launch",
+            "mainClass": "CodeChef.movie",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch nibble",
+            "request": "launch",
+            "mainClass": "CodeChef.nibble",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch hi2022",
+            "request": "launch",
+            "mainClass": "hashcode.hi2022",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch str",
+            "request": "launch",
+            "mainClass": "CodeChef.str",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch div",
+            "request": "launch",
+            "mainClass": "CodeChef.div",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch items",
+            "request": "launch",
+            "mainClass": "CodeChef.items",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch blackjack",
+            "request": "launch",
+            "mainClass": "CodeChef.blackjack",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch grah",
+            "request": "launch",
+            "mainClass": "codeforces.grah",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitblend",
+            "request": "launch",
+            "mainClass": "CodeChef.bitblend",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch hehe",
+            "request": "launch",
+            "mainClass": "CodeChef.hehe",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "CodeChef.Main",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "CodeChef.main",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringmanu",
+            "request": "launch",
+            "mainClass": "CodeChef.stringmanu",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch beans_108",
+            "request": "launch",
+            "mainClass": "codeforces.practise.beans_108",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch scales",
+            "request": "launch",
+            "mainClass": "codeforces.practise.scales",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch randd",
+            "request": "launch",
+            "mainClass": "CodeChef.randd",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch bad",
+            "request": "launch",
+            "mainClass": "CodeChef.bad",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch horseshoe",
+            "request": "launch",
+            "mainClass": "codeforces.horseshoe",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch count",
+            "request": "launch",
+            "mainClass": "codeforces.count",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch div7",
+            "request": "launch",
+            "mainClass": "codeforces.div7",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch subarr",
+            "request": "launch",
+            "mainClass": "CodeChef.subarr",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch free",
+            "request": "launch",
+            "mainClass": "free",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mainn",
+            "request": "launch",
+            "mainClass": "Mainn",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsetXor",
+            "request": "launch",
+            "mainClass": "CodeChef.subsetXor",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch seq",
+            "request": "launch",
+            "mainClass": "CodeChef.seq",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch cards",
+            "request": "launch",
+            "mainClass": "CodeChef.cards",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch elec",
+            "request": "launch",
+            "mainClass": "CodeChef.elec",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch carry",
+            "request": "launch",
+            "mainClass": "endevours.carry",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch golf",
+            "request": "launch",
+            "mainClass": "endevours.golf",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiple",
+            "request": "launch",
+            "mainClass": "CodeChef.multiple",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "codeforces.GFG",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch sentence",
+            "request": "launch",
+            "mainClass": "codeforces.sentence",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch RGBballs",
+            "request": "launch",
+            "mainClass": "CodeChef.RGBballs",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChefAndFd",
+            "request": "launch",
+            "mainClass": "CodeChef.ChefAndFd",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam",
+            "request": "launch",
+            "mainClass": "CodeChef.Exam",
+            "projectName": "my_2D_proj_aef15842"
+        },
+        {
+            "type": "java",
             "name": "Launch sweets",
             "request": "launch",
             "mainClass": "endevours.sweets",
@@ -104,7 +587,7 @@
         },
         {
             "type": "java",
-   pppppppppppppp         "name": "Launch App",
+            "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
             "projectName": "my_2D_proj_aef15842"

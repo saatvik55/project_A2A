@@ -7,6 +7,7 @@ import java.util.Scanner;
         int n = sc.nextInt();
         int d = sc.nextInt();
         printNumbers(n, d);
+        sc.close();
     }
 
     // Returns true if d is present as digit
@@ -22,6 +23,7 @@ import java.util.Scanner;
 
         // If loop broke
         return (x > 0);
+        
     }
 
     // function to display the values
@@ -32,6 +34,7 @@ import java.util.Scanner;
             // checking for digit
             if (i == d || isDigitPresent(i, d))
                 System.out.print(i + " ");
+                
     }
 
 }
